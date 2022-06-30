@@ -7,3 +7,4 @@ The manual_rps.py file was created as a rock paper scissors game which doesn't y
   - **get_user_choice()** which takes the user's input, and repeatedly asks again if the inpput isn't either rock, paper or scissors.
   - **get_winner()** which checks the user input relative to the computer choice according to the classic rock, paper, scissors rules to decide who won
   - **play()** which ties together and runs the previous functions and prints the outcome of get_winner()
+
